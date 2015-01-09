@@ -1,0 +1,43 @@
+body {
+  font: normal normal 10px/1.0 'Lucida Grande', sans-serif;
+}
+
+h1, p, li {
+  color: #666;
+}
+
+h2 {
+  color: #f07c17;
+}
+
+.page-title {
+  margin: 50px 0px 32px 0px;
+  font: normal normal 4.5em/1.0 'Lucida Grande', sans-serif;
+  letter-spacing: 0.036em;
+  text-align: center;
+}
+
+.page-sidebar {
+  border: 1px solid #ccc;
+  margin: 30px 0px 0px 0px;
+  padding: 30px 0px 30px 32px;
+}
+
+.sidebar-title {
+  font: normal bold 2.4em/1.0 'Lucida Grande', sans-serif;
+  margin: 0px 0px 32px 0px;
+}
+
+.logo {
+  width: 374px;
+}
+
+.article-title {
+  margin: 0px 0px 34px 0px;
+  font: normal bold 2.5em/1.0 'Lucida Grande', sans-serif;
+  letter-spacing: -0.02em;
+}
+
+.article-text {
+  font: normal normal 1.6em/2.0 'Lucida Grande', sans-serif;
+}
